@@ -1,6 +1,6 @@
 # AWS Architecture
 
-This folder contains the architecture diagrams used in this project.
+This folder contains the architecture design for the AWS Multi-Tier Web Application.
 
 ## Components
 
@@ -9,15 +9,13 @@ This folder contains the architecture diagrams used in this project.
 - Internet Gateway
 - Route Table
 - Security Group
-- EC2 Instance
+- Amazon EC2
 - Apache Web Server
 
-## Diagram
+## Diagram Files
 
-The AWS architecture diagram will be added as:
+architecture-diagram.drawio
 
 architecture-diagram.png
 
-and the editable Draw.io file:
-
-architecture-diagram.drawio
+These files describe the deployment architecture used in this project.
